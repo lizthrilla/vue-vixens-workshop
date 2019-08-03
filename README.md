@@ -6,5 +6,6 @@ Hosted by Wome Who Code at Suncoast Developers Guild.
 
 - vue
 - vueity
+- vue-router
 - vuex
 - axios
